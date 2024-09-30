@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Local host Items"
+                 start-page="starter.md">
+
+    <toc-element topic="starter.md"/>
+    <toc-element toc-title="Localhost">
+        <toc-element topic="post.md"/>
+        <toc-element topic="getall.md"/>
+        <toc-element topic="getid.md"/>
+        <toc-element topic="put.md"/>
+        <toc-element topic="delete.md"/>
+    </toc-element>
+</instance-profile>
+
